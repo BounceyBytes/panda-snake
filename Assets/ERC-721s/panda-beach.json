@@ -1,0 +1,25 @@
+{
+    "name": "Tiny Panda Burger #1",
+    "description": "A delightful panda enjoying a massive burger on the beach. Part of the Panda Burger collection.",
+    "image": "https://storage.googleapis.com/erc-721s/panda-beach.png",
+    "external_url": "https://tinypandaburger.io",
+    "attributes": [
+      {
+        "trait_type": "Panda Type",
+        "value": "baby"
+      },
+      {
+        "trait_type": "Burger Stack",
+        "value": "single"
+      },
+      {
+        "trait_type": "Background",
+        "value": "beach"
+      },
+      {
+        "trait_type": "Accessory",
+        "value": "palm tree"
+      }
+    ]
+  }
+  
